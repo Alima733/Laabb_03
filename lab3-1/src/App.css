@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+section {
+  border: 1px solid #ddd;
+  padding: 16px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  max-width: 400px;
+}
+
+button {
+  margin-right: 8px;
+  margin-top: 8px;
+  padding: 6px 12px;
+  cursor: pointer;
+}
+
+h3 {
+  margin-top: 0;
+}
+
+ul {
+  padding-left: 20px;
+}
